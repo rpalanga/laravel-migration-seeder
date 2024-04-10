@@ -33,13 +33,3 @@ class TrainSeeder extends Seeder
 
     }
 }
-
-// $table->text('company');
-//             $table->time('departurs');
-//             $table->time('arrivals');
-//             $table->date('time_to_departurs');
-//             $table->date('time_to_arrive');
-//             $table->string('train_number');
-//             $table->tinyInteger('train_carriages');
-//             $table->dateTime('time');
-//             $table->boolean('canceled')->default(false);
