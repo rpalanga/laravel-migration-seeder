@@ -2,14 +2,16 @@
 
 @section('content')
     <div class="container">
-            
-        <table class="table">
-            <thead class=" bg-body-secondary">
+        
+            <h3 class="display-3"><span class=" text-danger ">Treni in partenza</span> <br> Affrettarsi</h3>
+
+        <table class="table my-3">
+            <thead class="table-primary rounded-3 ">
               <tr>
                 
-                <th scope="col">Company</th>
-                <th scope="col">Departurs</th>
-                <th scope="col">Arrivals</th>
+                <th scope="col">Compagnia</th>
+                <th scope="col">Partenza</th>
+                <th scope="col">Arrivi</th>
                 <th scope="col">Giorno della Partenza</th>
                 <th scope="col">Orario di Partenza</th>
                 <th scope="col">Orario di Arrivo</th>
